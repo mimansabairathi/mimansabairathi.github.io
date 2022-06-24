@@ -7,7 +7,7 @@ author_profile: true
 ## Working Papers
 
 **"The Value of Platform Endorsement,"** with Xu Zhang and Anja Lambrecht  
-*(Job Market paper)*
+Under review at *Marketing Science (Job Market paper)*
 
 > Many digital platforms with large product assortments endorse a select group of items to facilitate user choice. Popular examples of such platform endorsement are Amazon’s Choice and Airbnb’s Superhost. While it is intuitive that endorsed items may enjoy considerable benefits from increased sales, little is known about the effect of platform endorsement on unendorsed items and on the platform. Using data from a field experiment conducted on an online freelance platform, we examine the effect of platform endorsement on user search and purchase behavior. We find that platform endorsement leads to an increase in search, as measured by the number of impressions and clicks, and purchases on the platform. Surprisingly, this increase is driven by an increase in search and purchases for not only endorsed services, but also unendorsed services. We find that this increase in search and purchases is mainly driven by an increase in the overall quality perception of the services offered on the platform. We further explore heterogeneity in the effect of platform endorsement and find that the effect of platform endorsement on purchase is more pronounced for users with a higher propensity to purchase. We discuss implications for platforms, merchants, and regulators.
 
