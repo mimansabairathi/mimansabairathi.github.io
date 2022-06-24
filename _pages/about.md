@@ -10,7 +10,7 @@ redirect_from:
 
 I am PhD candidate in Quantitative Marketing at London Business School.
 
-My dissertation focuses on digital platforms and online advertising. In my research, I combine elements of field experiments, causal inference, and machine learning.
+My dissertation focuses on platform economy and online advertising. In my research, I combine elements of field experiments, causal inference, and machine learning.
 
 In my job market paper, I study the effect of platform endorsement on user search and purchase behavior, in the context of a large scale field experiment on an online labour market.
 
