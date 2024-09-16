@@ -4,21 +4,29 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Publications
 
 **"The Value of Platform Endorsement,"** with Xu Zhang and Anja Lambrecht  
-*Minor Revision at Marketing Science*
+*Forthcoming at Marketing Science*
 
 > Many digital platforms with large product assortments endorse a select group of items to facilitate user choice. However, while it seems intuitive that such endorsement may increase the sales of endorsed items, little is known about its effect on unendorsed items, and on the platform. Using data from a field experiment conducted by an online freelance platform, we examine the effect of exposure to platform endorsement on user search and purchase behavior. We find that exposure to platform endorsement increases user search and purchases not only for endorsed services, but also for unendorsed services. We link the increase in search and purchases to an increase in the perception of the quality of services offered on the platform. We further explore heterogeneity in the effect of platform endorsement and find that the effect of exposure to platform endorsement on purchase is more pronounced for users with a higher propensity to purchase. We discuss implications for platforms, merchants, and regulators.
 
 [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144605){: .btn--research}
 
+
+## Working Papers
+
 **"Gender Disparity in Online Reputation: Evidence from an Online Freelance Platform,"** with Anja Lambrecht and Xu Zhang
 
-> Online ratings aim to reduce information asymmetry between buyers and sellers and help buyers make more informed purchase decisions. However, a problem arises if ratings are biased and do not reflect true buyer satisfaction. We investigate online ratings for services provided by male and female freelancers using a unique data set from an online freelance platform that elicits both public and private ratings from buyers after completion of a job. Public ratings are displayed on the website while private ratings are not shared with either the freelancers or other buyers. Using private ratings as a proxy for buyer satisfaction, we find that, conditional on the same private rating, public ratings are higher for male than for female freelancers. We propose this is a result of buyers' gender stereotypes about confrontational behavior of freelancers following a critical review. Buyers are more concerned about a threat of confrontation with male than female freelancers and, thus, give male freelancers a higher public rating. We present three supporting pieces of evidence. We show that gender disparity in public ratings is most pronounced for buyers from countries with greater gender inequality, for buyers from US states with a lower percentage of women in the labor force, and in service categories with below average female representation. These results matter for freelancers and platforms because systematic differences in evaluation by gender can lead to unfair outcomes for platform participants.
+> Online ratings aim to reduce information asymmetry between buyers and sellers, assisting buyers in making more informed purchase decisions. However, a problem arises if ratings are biased and do not reflect true buyer satisfaction. We analyze online ratings for services by male and female freelancers using data from an online freelance platform that elicits both public and private ratings from buyers post job completion. Public ratings are displayed on the website, while private ratings remain undisclosed. Using private ratings as a proxy for buyer satisfaction, we find that, conditional on the same private rating, public ratings are higher for male freelancers. We propose this is a result of buyers' gender stereotypes about confrontational behavior of freelancers following a critical review. Buyers are more concerned about a threat of confrontation with male than female freelancers and, thus, give male freelancers a higher public rating. We present two supporting pieces of evidence. This gender disparity in public ratings is most pronounced for buyers from countries with greater gender inequality and for buyers from US states with a lower percentage of women in the labor force. These results matter for freelancers and platforms because systematic differences in evaluation by gender can lead to unfair outcomes for platform participants.
 
 [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635329){: .btn--research}
 
+**"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao 
+
+> Platforms play an important role in allowing users to consume digital content such as music or videos. At the same time, platforms may play a vital role in popularizing content that consumers may view or listen to through other platforms or channels. In this paper, we study the spillover effects of music consumption on TikTok on consumption on other platforms or channels. Specifically, we focus on Universal Music Group's (Universal's) withdrawal of its licenses from TikTok in early 2024 and study the impact of consumption of music by Universal's artists on Spotify. Our results demonstrate a short-term drop in streams on Spotify. To understand why the drop occurs, we examine discovery via Shazam---a music discovery app---and find discovery of Universal songs on Shazam drops after the exit, suggesting a reduction in discovery is the primary driver of the effect. Because discovery might matter most for newer songs and songs used more in TikTok videos, we evaluate the heterogeneity along these two dimensions and find further support for the discovery mechanism. Our results point to the role of platforms in popularizing digital content and show important spillover effects may occur between different platforms.
+
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957674){: .btn--research}
 
 **"Influencer Marketing: Content Attributes and Consumer Engagement,"** with Anja Lambrecht  
 
