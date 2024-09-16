@@ -26,7 +26,7 @@ author_profile: true
 
 > Platforms play an important role in allowing users to consume digital content such as music or videos. At the same time, platforms may play a vital role in popularizing content that consumers may view or listen to through other platforms or channels. In this paper, we study the spillover effects of music consumption on TikTok on consumption on other platforms or channels. Specifically, we focus on Universal Music Group's (Universal's) withdrawal of its licenses from TikTok in early 2024 and study the impact of consumption of music by Universal's artists on Spotify. Our results demonstrate a short-term drop in streams on Spotify. To understand why the drop occurs, we examine discovery via Shazam---a music discovery app---and find discovery of Universal songs on Shazam drops after the exit, suggesting a reduction in discovery is the primary driver of the effect. Because discovery might matter most for newer songs and songs used more in TikTok videos, we evaluate the heterogeneity along these two dimensions and find further support for the discovery mechanism. Our results point to the role of platforms in popularizing digital content and show important spillover effects may occur between different platforms.
 
-[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957674){: .btn--research}
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957683){: .btn--research}
 
 **"Influencer Marketing: Content Attributes and Consumer Engagement,"** with Anja Lambrecht  
 
