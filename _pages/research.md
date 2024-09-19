@@ -37,6 +37,7 @@ author_profile: true
 
 </details>
 
+## Working Papers
 <style type="text/css">
   details > p {
   border-radius: 0 0 10px 10px;
@@ -47,8 +48,6 @@ author_profile: true
 }
 </style>
 
-## Working Papers
-
 **"Gender Disparity in Online Reputation: Evidence from an Online Freelance Platform,"** with Anja Lambrecht and Xu Zhang [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635329){: .btn--research}
 <details>
 	<summary>Abstract</summary>
@@ -56,30 +55,47 @@ author_profile: true
 		
 	Online ratings aim to reduce information asymmetry between buyers and sellers, assisting buyers in
 	making more informed purchase decisions. However, a problem arises if ratings are biased and do not
-	reflect true buyer satisfaction. We analyze online ratings for services by male and female freelancers
-	using data from an online freelance platform that elicits both public and private ratings from buyers
-	post job completion. Public ratings are displayed on the website, while private ratings remain
-	undisclosed. Using private ratings as a proxy for buyer satisfaction, we find that, conditional on the
-	same private rating, public ratings are higher for male freelancers. We propose this is a result of
-	buyers' gender stereotypes about confrontational behavior of freelancers following a critical review.
-	Buyers are more concerned about a threat of confrontation with male than female freelancers and, thus,
-	give male freelancers a higher public rating. We present two supporting pieces of evidence. This
-	gender disparity in public ratings is most pronounced for buyers from countries with greater gender
-	inequality and for buyers from US states with a lower percentage of women in the labor force. These
-	results matter for freelancers and platforms because systematic differences in evaluation by gender
-	can lead to unfair outcomes for platform participants.
+	reflect true buyer satisfaction. We analyze online ratings for services by male and female
+	freelancers using data from an online freelance platform that elicits both public and private ratings
+	from buyers post job completion. Public ratings are displayed on the website, while private ratings
+	remain undisclosed. Using private ratings as a proxy for buyer satisfaction, we find that,
+	conditional on the same private rating, public ratings are higher for male freelancers. We propose
+	this is a result of buyers' gender stereotypes about confrontational behavior of freelancers
+	following a critical review. Buyers are more concerned about a threat of confrontation with male than
+	female freelancers and, thus, give male freelancers a higher public rating. We present two supporting
+	pieces of evidence. This gender disparity in public ratings is most pronounced for buyers from
+	countries with greater gender inequality and for buyers from US states with a lower percentage of
+	women in the labor force. These results matter for freelancers and platforms because systematic
+	differences in evaluation by gender can lead to unfair outcomes for platform participants.
 	</pre>
 
 </details>
 
 
-**"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao 
-
-> Platforms play an important role in allowing users to consume digital content such as music or videos. At the same time, platforms may play a vital role in popularizing content that consumers may view or listen to through other platforms or channels. In this paper, we study the spillover effects of music consumption on TikTok on consumption on other platforms or channels. Specifically, we focus on Universal Music Group's (Universal's) withdrawal of its licenses from TikTok in early 2024 and study the impact of consumption of music by Universal's artists on Spotify. Our results demonstrate a short-term drop in streams on Spotify. To understand why the drop occurs, we examine discovery via Shazam---a music discovery app---and find discovery of Universal songs on Shazam drops after the exit, suggesting a reduction in discovery is the primary driver of the effect. Because discovery might matter most for newer songs and songs used more in TikTok videos, we evaluate the heterogeneity along these two dimensions and find further support for the discovery mechanism. Our results point to the role of platforms in popularizing digital content and show important spillover effects may occur between different platforms.
+**"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959753){: .btn--research}
 
 ![](/images/sdid_spotify.png){: width="450"}
+<details>
+	<summary>Abstract</summary>
+	<pre>
+		
+	Online ratings aim to reduce information asymmetry between buyers and sellers, assisting buyers in
+	making more informed purchase decisions. However, a problem arises if ratings are biased and do not
+	reflect true buyer satisfaction. We analyze online ratings for services by male and female
+	freelancers using data from an online freelance platform that elicits both public and private ratings
+	from buyers post job completion. Public ratings are displayed on the website, while private ratings
+	remain undisclosed. Using private ratings as a proxy for buyer satisfaction, we find that,
+	conditional on the same private rating, public ratings are higher for male freelancers. We propose
+	this is a result of buyers' gender stereotypes about confrontational behavior of freelancers
+	following a critical review. Buyers are more concerned about a threat of confrontation with male than
+	female freelancers and, thus, give male freelancers a higher public rating. We present two supporting
+	pieces of evidence. This gender disparity in public ratings is most pronounced for buyers from
+	countries with greater gender inequality and for buyers from US states with a lower percentage of
+	women in the labor force. These results matter for freelancers and platforms because systematic
+	differences in evaluation by gender can lead to unfair outcomes for platform participants.
+	</pre>
 
-[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959753){: .btn--research}
+</details>
 
 **"Influencer Marketing: Content Attributes and Consumer Engagement,"** with Anja Lambrecht  
 
