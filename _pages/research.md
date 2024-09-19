@@ -11,7 +11,7 @@ author_profile: true
 
 <details>
 	<summary>Abstract</summary>
-	<pre>
+	<p>
 		
 	Many digital platforms with large product assortments endorse a select group of items to facilitate
 	user choice. However, while it seems intuitive that such endorsement may increase the sales of
@@ -24,7 +24,7 @@ author_profile: true
 	platform endorsement and find that the effect of exposure to platform endorsement on purchase is more
 	pronounced for users with a higher propensity to purchase. We discuss implications for platforms,
 	merchants, and regulators.
-	</pre>
+	</p>
 
 </details>
 
@@ -33,11 +33,28 @@ author_profile: true
 
 ## Working Papers
 
-**"Gender Disparity in Online Reputation: Evidence from an Online Freelance Platform,"** with Anja Lambrecht and Xu Zhang
+**"Gender Disparity in Online Reputation: Evidence from an Online Freelance Platform,"** with Anja Lambrecht and Xu Zhang [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635329){: .btn--research}
+<details>
+	<summary>Abstract</summary>
+	<pre>
+		
+	Online ratings aim to reduce information asymmetry between buyers and sellers, assisting buyers in
+	making more informed purchase decisions. However, a problem arises if ratings are biased and do not
+	reflect true buyer satisfaction. We analyze online ratings for services by male and female freelancers
+	using data from an online freelance platform that elicits both public and private ratings from buyers
+	post job completion. Public ratings are displayed on the website, while private ratings remain
+	undisclosed. Using private ratings as a proxy for buyer satisfaction, we find that, conditional on the
+	same private rating, public ratings are higher for male freelancers. We propose this is a result of
+	buyers' gender stereotypes about confrontational behavior of freelancers following a critical review.
+	Buyers are more concerned about a threat of confrontation with male than female freelancers and, thus,
+	give male freelancers a higher public rating. We present two supporting pieces of evidence. This
+	gender disparity in public ratings is most pronounced for buyers from countries with greater gender
+	inequality and for buyers from US states with a lower percentage of women in the labor force. These
+	results matter for freelancers and platforms because systematic differences in evaluation by gender
+	can lead to unfair outcomes for platform participants.
+	</pre>
 
-> Online ratings aim to reduce information asymmetry between buyers and sellers, assisting buyers in making more informed purchase decisions. However, a problem arises if ratings are biased and do not reflect true buyer satisfaction. We analyze online ratings for services by male and female freelancers using data from an online freelance platform that elicits both public and private ratings from buyers post job completion. Public ratings are displayed on the website, while private ratings remain undisclosed. Using private ratings as a proxy for buyer satisfaction, we find that, conditional on the same private rating, public ratings are higher for male freelancers. We propose this is a result of buyers' gender stereotypes about confrontational behavior of freelancers following a critical review. Buyers are more concerned about a threat of confrontation with male than female freelancers and, thus, give male freelancers a higher public rating. We present two supporting pieces of evidence. This gender disparity in public ratings is most pronounced for buyers from countries with greater gender inequality and for buyers from US states with a lower percentage of women in the labor force. These results matter for freelancers and platforms because systematic differences in evaluation by gender can lead to unfair outcomes for platform participants.
-
-[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635329){: .btn--research}
+</details>
 
 **"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao 
 
