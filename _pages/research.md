@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <style type="text/css">
-  details > p {
+  details > summary {
   border-radius: 0 0 10px 10px;
   background-color: white;
   padding: 2px 6px;
@@ -97,11 +97,17 @@ author_profile: true
 
 </details>
 
-**"Influencer Marketing: Content Attributes and Consumer Engagement,"** with Anja Lambrecht  
+**"Influencer Marketing: Content Attributes and Consumer Engagement,"** with Anja Lambrecht [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679776){: .btn--research}
+ 
+<details>
+	<summary>Abstract</summary>
+	<pre>
+		
+	Influencers with a large social media following often leverage their popularity to promote sponsored content for brands. However, it is not clear how consumers respond to sponsored content relative to the influencer’s organic content. Using a dataset of 180,404 posts created by 510 Instagram influencers, we examine if consumer engagement differs for sponsored relative to organic posts. We identify sponsored posts based on express disclosure as well as based on supervised learning. We instrument for a post being sponsored using the timing of the FTC’s warning to influencers regarding lack of sponsorship disclosure and its subsequent tightening of disclosure requirements. As a further instrument, we use category-level advertising shocks. We show that consumer engagement, measured by the number of likes, is lower with sponsored than with organic content. However, conditional on a post being sponsored, we find that advertising disclosure increases engagement. We then explore what characterizes successful influencer content, especially, whether practitioners’ focus on authenticity of content is justified. We use three measures of authenticity – topic alignment of a post with other content of the influencer, an influencer’s propensity to share brand related content, and the number of times a brand is mentioned in the post. We find that authenticity of content mitigates the negative effect of sponsorship on engagement. Our findings are relevant for regulators who are concerned about the lack of advertising disclosure in influencer marketing and can inform influencers’ and advertisers’ content creation strategies.
+	</pre>
 
-> Influencers with a large social media following often leverage their popularity to promote sponsored content for brands. However, it is not clear how consumers respond to sponsored content relative to the influencer’s organic content. Using a dataset of 180,404 posts created by 510 Instagram influencers, we examine if consumer engagement differs for sponsored relative to organic posts. We identify sponsored posts based on express disclosure as well as based on supervised learning. We instrument for a post being sponsored using the timing of the FTC’s warning to influencers regarding lack of sponsorship disclosure and its subsequent tightening of disclosure requirements. As a further instrument, we use category-level advertising shocks. We show that consumer engagement, measured by the number of likes, is lower with sponsored than with organic content. However, conditional on a post being sponsored, we find that advertising disclosure increases engagement. We then explore what characterizes successful influencer content, especially, whether practitioners’ focus on authenticity of content is justified. We use three measures of authenticity – topic alignment of a post with other content of the influencer, an influencer’s propensity to share brand related content, and the number of times a brand is mentioned in the post. We find that authenticity of content mitigates the negative effect of sponsorship on engagement. Our findings are relevant for regulators who are concerned about the lack of advertising disclosure in influencer marketing and can inform influencers’ and advertisers’ content creation strategies.
+</details>
 
-[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679776){: .btn--research}
 
 ## Work in progress
 
