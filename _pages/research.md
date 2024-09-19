@@ -70,7 +70,7 @@ author_profile: true
 	</p>
 
 </details>
-
+<br>
 
 **"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959753){: .btn--research}
 
@@ -95,6 +95,7 @@ author_profile: true
 	</p>
 
 </details>
+<br>
 
 **"Influencer Marketing: Content Attributes and Consumer Engagement,"** with Anja Lambrecht [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679776){: .btn--research}
  
@@ -106,7 +107,7 @@ author_profile: true
 	</p>
 
 </details>
-
+<br>
 
 ## Work in progress
 
