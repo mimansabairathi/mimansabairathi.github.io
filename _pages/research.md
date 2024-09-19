@@ -51,7 +51,7 @@ author_profile: true
 **"Gender Disparity in Online Reputation: Evidence from an Online Freelance Platform,"** with Anja Lambrecht and Xu Zhang [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635329){: .btn--research}
 <details>
 	<summary>Abstract</summary>
-	<pre>
+	<p>
 		
 	Online ratings aim to reduce information asymmetry between buyers and sellers, assisting buyers in
 	making more informed purchase decisions. However, a problem arises if ratings are biased and do not
@@ -67,7 +67,7 @@ author_profile: true
 	countries with greater gender inequality and for buyers from US states with a lower percentage of
 	women in the labor force. These results matter for freelancers and platforms because systematic
 	differences in evaluation by gender can lead to unfair outcomes for platform participants.
-	</pre>
+	</p>
 
 </details>
 
@@ -77,7 +77,7 @@ author_profile: true
 ![](/images/sdid_spotify.png){: width="450"}
 <details>
 	<summary>Abstract</summary>
-	<pre>
+	<p>
 		
 	Platforms play an important role in allowing users to consume digital content such as music or
 	videos. At the same time, platforms may play a vital role in popularizing content that consumers may
@@ -92,7 +92,7 @@ author_profile: true
 	along these two dimensions and find further support for the discovery mechanism. Our results point to
 	the role of platforms in popularizing digital content and show important spillover effects may occur
 	between different platforms.
-	</pre>
+	</p>
 
 </details>
 
@@ -100,10 +100,10 @@ author_profile: true
  
 <details>
 	<summary>Abstract</summary>
-	<pre>
+	<p>
 		
 	Influencers with a large social media following often leverage their popularity to promote sponsored content for brands. However, it is not clear how consumers respond to sponsored content relative to the influencer’s organic content. Using a dataset of 180,404 posts created by 510 Instagram influencers, we examine if consumer engagement differs for sponsored relative to organic posts. We identify sponsored posts based on express disclosure as well as based on supervised learning. We instrument for a post being sponsored using the timing of the FTC’s warning to influencers regarding lack of sponsorship disclosure and its subsequent tightening of disclosure requirements. As a further instrument, we use category-level advertising shocks. We show that consumer engagement, measured by the number of likes, is lower with sponsored than with organic content. However, conditional on a post being sponsored, we find that advertising disclosure increases engagement. We then explore what characterizes successful influencer content, especially, whether practitioners’ focus on authenticity of content is justified. We use three measures of authenticity – topic alignment of a post with other content of the influencer, an influencer’s propensity to share brand related content, and the number of times a brand is mentioned in the post. We find that authenticity of content mitigates the negative effect of sponsorship on engagement. Our findings are relevant for regulators who are concerned about the lack of advertising disclosure in influencer marketing and can inform influencers’ and advertisers’ content creation strategies.
-	</pre>
+	</p>
 
 </details>
 
