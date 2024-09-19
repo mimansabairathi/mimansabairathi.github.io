@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <style type="text/css">
-  details > summary {
+  details > p {
   border-radius: 0 0 10px 10px;
   background-color: white;
   padding: 2px 6px;
@@ -79,20 +79,19 @@ author_profile: true
 	<summary>Abstract</summary>
 	<pre>
 		
-	Online ratings aim to reduce information asymmetry between buyers and sellers, assisting buyers in
-	making more informed purchase decisions. However, a problem arises if ratings are biased and do not
-	reflect true buyer satisfaction. We analyze online ratings for services by male and female
-	freelancers using data from an online freelance platform that elicits both public and private ratings
-	from buyers post job completion. Public ratings are displayed on the website, while private ratings
-	remain undisclosed. Using private ratings as a proxy for buyer satisfaction, we find that,
-	conditional on the same private rating, public ratings are higher for male freelancers. We propose
-	this is a result of buyers' gender stereotypes about confrontational behavior of freelancers
-	following a critical review. Buyers are more concerned about a threat of confrontation with male than
-	female freelancers and, thus, give male freelancers a higher public rating. We present two supporting
-	pieces of evidence. This gender disparity in public ratings is most pronounced for buyers from
-	countries with greater gender inequality and for buyers from US states with a lower percentage of
-	women in the labor force. These results matter for freelancers and platforms because systematic
-	differences in evaluation by gender can lead to unfair outcomes for platform participants.
+	Platforms play an important role in allowing users to consume digital content such as music or
+	videos. At the same time, platforms may play a vital role in popularizing content that consumers may
+	view or listen to through other platforms or channels. In this paper, we study the spillover effects
+	of music consumption on TikTok on consumption on other platforms or channels. Specifically, we focus
+	on Universal Music Group's (Universal's) withdrawal of its licenses from TikTok in early 2024 and
+	study the impact of consumption of music by Universal's artists on Spotify. Our results demonstrate a
+	short-term drop in streams on Spotify. To understand why the drop occurs, we examine discovery via
+	Shazam---a music discovery app---and find discovery of Universal songs on Shazam drops after the
+	exit, suggesting a reduction in discovery is the primary driver of the effect. Because discovery
+	might matter most for newer songs and songs used more in TikTok videos, we evaluate the heterogeneity
+	along these two dimensions and find further support for the discovery mechanism. Our results point to
+	the role of platforms in popularizing digital content and show important spillover effects may occur
+	between different platforms.
 	</pre>
 
 </details>
