@@ -113,5 +113,24 @@ author_profile: true
 
 **"Attracting the Marginal: Online Advertising and Usage,"** with Anja Lambrecht
 
-> Research has shown that online advertising is effective in attracting new consumers. However, it is less clear if consumers who adopt a product in response to online advertising have a different propensity to use the advertised product compared to consumers who adopt the product but have not viewed an online ad. We use field experimental data from an advertising campaign for a video streaming app to answer this question. In the experiment, consumers in the treatment group were exposed to online advertising for the app, while consumers in the control group were not exposed to online advertising. We find that consumers exposed to online advertising are indeed significantly more likely to install the app. However, our data suggest that online advertising is not effective in increasing usage of the app, measured as the number of sessions. On the contrary, we find that conditional on installation, consumers in the treatment group use the app significantly fewer times compared to consumers in the control group. Moreover, conditional on installation, consumers exposed to online advertising are directionally less likely to subscribe to the video streaming service relative to consumers not exposed to online advertising. This suggests that online advertising attracts marginal consumers who have a lower preference for the advertised app compared to consumers who install without having viewed the ad. Our findings are relevant to advertisers because they shed light on the limits of online advertising in acquiring profitable consumers.
+<details>
+	<summary>Abstract</summary>
+	<p>
+		
+	Research has shown that online advertising is effective in attracting new consumers. However, it is less clear if consumers who
+	adopt a product in response to online advertising have a different propensity to use the advertised product compared to consumers
+	who adopt the product but have not viewed an online ad. We use field experimental data from an advertising campaign for a video
+	streaming app to answer this question. In the experiment, consumers in the treatment group were exposed to online advertising for
+	the app, while consumers in the control group were not exposed to online advertising. We find that consumers exposed to online
+	advertising are indeed significantly more likely to install the app. However, our data suggest that online advertising is not
+	effective in increasing usage of the app, measured as the number of sessions. On the contrary, we find that conditional on
+	installation, consumers in the treatment group use the app significantly fewer times compared to consumers in the control group.
+	Moreover, conditional on installation, consumers exposed to online advertising are directionally less likely to subscribe to the
+	video streaming service relative to consumers not exposed to online advertising. This suggests that online advertising attracts
+	marginal consumers who have a lower preference for the advertised app compared to consumers who install without having viewed the
+	ad. Our findings are relevant to advertisers because they shed light on the limits of online advertising in acquiring profitable
+	consumers.
+	</p>
+
+</details>
 
