@@ -4,11 +4,20 @@ permalink: /research/
 author_profile: true
 ---
 
+<style type="text/css">
+  details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #ddd;
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px black;
+}
+</style>
+
 ## Publications
 
 **"The Value of Platform Endorsement,"** with Xu Zhang and Anja Lambrecht  
-*Forthcoming at Marketing Science*
-
+*Forthcoming at Marketing Science* [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144605){: .btn--research}
 <details>
 	<summary>Abstract</summary>
 	<p>
@@ -28,7 +37,6 @@ author_profile: true
 
 </details>
 
-[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144605){: .btn--research}
 
 
 ## Working Papers
