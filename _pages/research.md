@@ -7,10 +7,10 @@ author_profile: true
 <style type="text/css">
   details > p {
   border-radius: 0 0 10px 10px;
-  background-color: #ddd;
+  background-color: white;
   padding: 2px 6px;
   margin: 0;
-  box-shadow: 3px 3px 4px black;
+  box-shadow: white;
 }
 </style>
 
@@ -37,7 +37,15 @@ author_profile: true
 
 </details>
 
-
+<style type="text/css">
+  details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: white;
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: white;
+}
+</style>
 
 ## Working Papers
 
@@ -63,6 +71,7 @@ author_profile: true
 	</pre>
 
 </details>
+
 
 **"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao 
 
