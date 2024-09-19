@@ -13,7 +13,17 @@ author_profile: true
 	<summary>Abstract</summary>
 	<pre>
 		
-	Many digital platforms with large product assortments endorse a select group of items to facilitate user choice. However, while it seems intuitive that such endorsement may increase the sales of endorsed items, little is known about its effect on unendorsed items, and on the platform. Using data from a field experiment conducted by an online freelance platform, we examine the effect of exposure to platform endorsement on user search and purchase behavior. We find that exposure to platform endorsement increases user search and purchases not only for endorsed services, but also for unendorsed services. We link the increase in search and purchases to an increase in the perception of the quality of services offered on the platform. We further explore heterogeneity in the effect of platform endorsement and find that the effect of exposure to platform endorsement on purchase is more pronounced for users with a higher propensity to purchase. We discuss implications for platforms, merchants, and regulators.
+	Many digital platforms with large product assortments endorse a select group of items to facilitate
+	user choice. However, while it seems intuitive that such endorsement may increase the sales of
+	endorsed items, little is known about its effect on unendorsed items, and on the platform. Using data
+	from a field experiment conducted by an online freelance platform, we examine the effect of exposure
+	to platform endorsement on user search and purchase behavior. We find that exposure to platform
+	endorsement increases user search and purchases not only for endorsed services, but also for
+	unendorsed services. We link the increase in search and purchases to an increase in the perception of
+	the quality of services offered on the platform. We further explore heterogeneity in the effect of
+	platform endorsement and find that the effect of exposure to platform endorsement on purchase is more
+	pronounced for users with a higher propensity to purchase. We discuss implications for platforms,
+	merchants, and regulators.
 	</pre>
 
 </details>
