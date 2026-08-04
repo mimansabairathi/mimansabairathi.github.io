@@ -36,9 +36,10 @@ author_profile: true
 	</p>
 
 </details>
+<br>
 
 **"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao 
-*Accepted at Management Science*[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959753){: .btn--research}
+*Accepted at Management Science* [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959753){: .btn--research}
 
 ![](/images/sdid_spotify.png){: width="450"}
 <details>
@@ -111,7 +112,7 @@ author_profile: true
 
 ## Selected work in progress
 
-**"Do online protests create lasting downstream consequences? Evidence from Reddit Go Dark.,"** with Shrabastee Banerjee, Justin Huang, and Qinglai He
+**"Do online protests create lasting downstream consequences? Evidence from Reddit Go Dark,"** with Shrabastee Banerjee, Justin Huang, and Qinglai He
 
 **"Attracting the Marginal: Online Advertising and Usage,"** with Anja Lambrecht
 
