@@ -17,7 +17,7 @@ author_profile: true
 ## Publications
 
 **"The Value of Platform Endorsement,"** with Xu Zhang and Anja Lambrecht  
-*Forthcoming at Marketing Science* [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144605){: .btn--research}
+*Marketing Science* [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2022.0226){: .btn--research}
 <details>
 	<summary>Abstract</summary>
 	<p>
@@ -37,6 +37,20 @@ author_profile: true
 
 </details>
 
+**"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao 
+*Accepted at Management Science*[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959753){: .btn--research}
+
+![](/images/sdid_spotify.png){: width="450"}
+<details>
+	<summary>Abstract</summary>
+	<p>
+		
+	Platforms allow users to consume digital content such as music or videos but at the same time they may also play a vital role in popularizing content that users consume through other platforms or channels. In this paper, we study the spillover effects of Universal Music Group's (Universal's) withdrawal of its licenses from TikTok in early 2024 on consumption of its songs on Spotify. Using as control group songs by Sony and Warner that continued to be on TikTok, we demonstrate a decline in streams of Universal songs on Spotify. We suggest that this pattern is a result of platform complementarities: users discover songs on TikTok which then increases streams  on Spotify. To support this interpretation, we show that the frequency of identification of Universal songs on Shazam, a music discovery app, declined following the withdrawal, and that newer songs, which benefit more from incremental exposure, experienced a stronger decline, both consistent with TikTok serving as a promotional channel. Our results point to the role of platform complementarities in popularizing digital content and demonstrate spillover effects between platforms.
+	</p>
+
+</details>
+<br>
+
 ## Working Papers
 <style type="text/css">
   details > p {
@@ -47,6 +61,17 @@ author_profile: true
   box-shadow: white;
 }
 </style>
+
+**"Consumer Value of Privacy: Evidence from an Online Retailer,"** with Mayur Choudhary and Ankit Sisodia [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7219960){: .btn--research}
+<details>
+	<summary>Abstract</summary>
+	<p>
+		
+	We study how much consumers value personal information using data from an online retailer's tiered loyalty program. Consumers receive points for disclosing personal information. While points awarded are fixed, their effective value varies quasi-experimentally with distance to the tier-upgrade threshold. Exploiting this variation, we estimate how incentives affect disclosure, and recover bounds on the value of personal information. Disclosure increases with incentives, and valuations differ across data types. Consumers value mobile number ($0.99) and payment card details ($1.02) more than date of birth ($0.20). More engaged consumers value their information more, suggesting privacy valuations depend on consumer experience with firms.
+	</p>
+
+</details>
+<br>
 
 **"Gender Disparity in Online Reputation: Evidence from an Online Freelance Platform,"** with Anja Lambrecht and Xu Zhang [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635329){: .btn--research}
 <details>
@@ -72,31 +97,6 @@ author_profile: true
 </details>
 <br>
 
-**"Social Media, Music Consumption, and Cross-Platform Spillover Effects,"** with Anja Lambrecht and Anita Rao [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959753){: .btn--research}
-
-![](/images/sdid_spotify.png){: width="450"}
-<details>
-	<summary>Abstract</summary>
-	<p>
-		
-	Platforms play an important role in allowing users to consume digital content such as music or
-	videos. At the same time, platforms may play a vital role in popularizing content that consumers may
-	view or listen to through other platforms or channels. In this paper, we study the spillover effects
-	of music consumption on TikTok on consumption on other platforms or channels. Specifically, we focus
-	on Universal Music Group's (Universal's) withdrawal of its licenses from TikTok in early 2024 and
-	study the impact of consumption of music by Universal's artists on Spotify. Our results demonstrate a
-	short-term drop in streams on Spotify. To understand why the drop occurs, we examine discovery via
-	Shazam---a music discovery app---and find discovery of Universal songs on Shazam drops after the
-	exit, suggesting a reduction in discovery is the primary driver of the effect. Because discovery
-	might matter most for newer songs and songs used more in TikTok videos, we evaluate the heterogeneity
-	along these two dimensions and find further support for the discovery mechanism. Our results point to
-	the role of platforms in popularizing digital content and show important spillover effects may occur
-	between different platforms.
-	</p>
-
-</details>
-<br>
-
 **"Influencer Marketing: Content Attributes and Consumer Engagement,"** with Anja Lambrecht [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679776){: .btn--research}
  
 <details>
@@ -109,7 +109,9 @@ author_profile: true
 </details>
 <br>
 
-## Work in progress
+## Selected work in progress
+
+**"Do online protests create lasting downstream consequences? Evidence from Reddit Go Dark.,"** with Shrabastee Banerjee, Justin Huang, and Qinglai He
 
 **"Attracting the Marginal: Online Advertising and Usage,"** with Anja Lambrecht
 
